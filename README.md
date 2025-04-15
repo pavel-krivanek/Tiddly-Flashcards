@@ -14,6 +14,9 @@ A lightweight flashcard app with TiddlyWiki-style single-file saving.
   - Up/Down Arrows: Navigate cards
   - Swipe gestures supported
 
+## Demo
+[On-line demo](https://pavel-krivanek.github.io/tiddly-flashcards/tiddly-flashcards.html)
+
 ## Data Format
 
 Each line represents one card:
